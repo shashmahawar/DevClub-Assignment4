@@ -7,7 +7,7 @@
     "content_scripts": [
         {
             "matches": ["https://moodle.iitd.ac.in/login/index.php"],
-            "js":["login.js"]
+            "js":["login.js", "style.js"]
         }
     ]
 }
