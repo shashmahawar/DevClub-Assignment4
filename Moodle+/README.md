@@ -19,3 +19,5 @@ Now, build a chrome extension which will solve this question automatically!
 * Try to make the code submit the login form too! (You may have to store the credentials for this (Make sure to remove them before pushing your code to GitHub))
 * Make a separate file `style.js`, and add it to `content_scripts` in `manifest.json` such that it loads each time you open any moodle page. (You may have to use wildcards for this)
 * Using DOM selector you can change the style of the elements. So now, try to redesign moodle according to your own creativity! For instance, try making a dark-mode for moodle!
+
+https://user-images.githubusercontent.com/94236990/159448714-954bc07b-54f8-4b23-a14d-22be8ad99a1a.mov
